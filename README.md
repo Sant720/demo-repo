@@ -9,3 +9,8 @@ This is a second line.
 This is some more text. 
 
 Hello
+
+
+# Local development
+
+1. Open index.html in your browser.
